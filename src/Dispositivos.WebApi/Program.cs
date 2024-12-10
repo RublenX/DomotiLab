@@ -1,5 +1,4 @@
-
-namespace DispositivosWebApi
+namespace Dispositivos.WebApi
 {
     public class Program
     {

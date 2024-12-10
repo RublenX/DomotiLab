@@ -1,6 +1,7 @@
+using Dispositivos.WebApi;
 using Microsoft.AspNetCore.Mvc;
 
-namespace RedLocalWebApi.Controllers
+namespace Dispositivos.WebApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]

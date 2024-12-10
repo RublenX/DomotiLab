@@ -1,5 +1,4 @@
-
-namespace RedLocalWebApi
+namespace RedLocal.WebApi
 {
     public class Program
     {

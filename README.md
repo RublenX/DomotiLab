@@ -22,10 +22,19 @@ Se pueden utiliza también [Badges](https://shields.io/)
 ## Instalación y Uso
 Lo que se necesita para instalar el proyecto (pre-requisitos) en el entorno de desarrollo y poder utilizarlo adecuadamente.
 
-Cómo lanzarlo y ejemplo de pruebas
+Cómo lanzarlo y ejemplo de pruebas.
+
+Cómo y dónde desplegarlo
 
 ## Tecnologías Aplicadas
 Frameworks, repositorios, arquitectura, buenas prácticas, etc.
+
+Este proyecto intenta aprender e interiorizar las recomendaciones y buenas prácticas expuestas en el libro [".NET Microservices: Arqchitecture for Containerized .NET Applications"](https://learn.microsoft.com/es-es/dotnet/architecture/microservices/).
+Existe un proyecto ejemplo creado por los autores del libro en [GitHub](https://github.com/dotnet/eShop).
+
+### CodeFirst
+Esta solución aplica el acercamiento de 'CodeFirst' para la creación y gestión de base de datos.
+
 
 ## Créditos
 Colaboradores, librerías de terceros, documentación de referencia y cómo poder contribuir, si se da el caso.

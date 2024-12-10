@@ -1,4 +1,4 @@
-namespace DispositivosWebApi
+namespace RedLocal.WebApi
 {
     public class WeatherForecast
     {
