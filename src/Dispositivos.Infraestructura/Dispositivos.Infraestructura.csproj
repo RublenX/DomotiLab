@@ -4,6 +4,21 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <UserSecretsId>107dccae-0ea8-459e-a187-73feaed75907</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Configuraciones\" />
+    <Folder Include="Repositorios\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="6.0.1" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dispositivos.Dominio\Dispositivos.Dominio.csproj" />
+  </ItemGroup>
 
 </Project>
